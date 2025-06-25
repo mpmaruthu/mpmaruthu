@@ -6,6 +6,7 @@ I'm a passionate **Developer and Solution Integrator** with expertise in buildin
 
 - **IP Networking**
 - **Red Hat OpenShift**
+- **Ansible Automation**
 - **Kubernetes**
 - **Solution Architecture**
 - **Python**
