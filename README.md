@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Periyamaruthu - (Peri M) !
 
-<!--
-**mpmaruthu/mpmaruthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Developer** with expertise in building, automating, and troubleshooting modern cloud infrastructure and solutions.
 
-Here are some ideas to get you started:
+## 🚀 Top Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **IP Networking**
+- **Red Hat OpenShift**
+- **Kubernetes**
+- **Solution Architecture**
+- **Python**
+- **Golang**
+
+## 🛠️ Featured Projects
+
+- [eco-gotests](https://github.com/mpmaruthu/eco-gotests)
+- [eco-goinfra](https://github.com/mpmaruthu/eco-goinfra)
+- **Prompt Engineering for RCA / EDA use cases**
+- [Stolostron](https://github.com/open-cluster-management-io/stolostron)
+- [openshift-kni](https://github.com/openshift-kni)
+
+## 📫 How to reach me
+
+- Email: [pmohanra@redhat.com]
+- LinkedIn: [https://www.linkedin.com/in/periyamaruthu-mohanraj/]
+- GitHub: mpmaruthu
+
+## ⚡ Fun fact
+
+Professional Interests:
+Continuous Learning, IP and Packet Core Networking, Cloud Native Solutions, Generative AI, OpenShift, Virtualization. 
+
+## 🌱 I’m currently learning
+
+Generative AI, Red Hat Openshift AI.
+
+
+## 💬 Ask me about
+
+Cloud RAN Solutions, Telco-grade OpenShift Solutions, Virtualization, IP Networking, Kubernetes.
+
+---
+
+🌱 Always learning, experimenting, and building solutions that matter.
