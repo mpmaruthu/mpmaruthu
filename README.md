@@ -23,7 +23,7 @@ I'm a passionate **Developer and Solution Integrator** with expertise in buildin
 
 - Email: [pmohanra@redhat.com]
 - LinkedIn: [https://www.linkedin.com/in/periyamaruthu-mohanraj/]
-- GitHub: mpmaruthu
+- GitHub: [https://github.com/mpmaruthu]
 
 ## ⚡ Fun fact
 
