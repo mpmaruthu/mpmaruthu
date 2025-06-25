@@ -16,7 +16,7 @@ I'm a passionate **Developer and Solution Integrator** with expertise in buildin
 
 - [eco-gotests](https://github.com/mpmaruthu/eco-gotests)
 - [eco-goinfra](https://github.com/mpmaruthu/eco-goinfra)
-- **Prompt Engineering for RCA / EDA use cases**
+- **Prompt Engineering for Gen AI driven RCA / EDA use cases**
 - [Stolostron](https://github.com/open-cluster-management-io/stolostron)
 - [openshift-kni](https://github.com/openshift-kni)
 
