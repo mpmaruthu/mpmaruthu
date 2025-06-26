@@ -44,3 +44,7 @@ Cloud RAN Solutions, Telco-grade OpenShift Solutions, Virtualization, IP Network
 ---
 
 🌱 Always learning, experimenting, and building solutions that matter.
+
+## Statistics
+
+![Periyamaruthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpmaruthu&show_icons=true)
