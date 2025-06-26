@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Periyamaruthu - (Peri M) !
 
-I'm a passionate **Developer and Solution Engineer** with expertise in building, automating, and troubleshooting modern cloud infrastructure and solutions.
+I'm a passionate **Developer and Solutions Engineer** with expertise in building, automating, and troubleshooting modern cloud infrastructure and solutions.
 
 ## 🚀 Top Skills & Technologies
 
