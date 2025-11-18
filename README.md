@@ -14,6 +14,7 @@ I'm a passionate **Developer and Solutions Engineer** with expertise in building
 
 ## 🛠️ Featured Projects
 
+- [rh-telco-labs](https://github.com/rh-telco-labs)
 - [eco-gotests](https://github.com/mpmaruthu/eco-gotests)
 - [eco-goinfra](https://github.com/mpmaruthu/eco-goinfra)
 - **Prompt Engineering for Gen AI driven RCA / EDA use cases**
