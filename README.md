@@ -47,7 +47,7 @@ Cloud RAN Solutions, Telco-grade OpenShift Solutions, Virtualization, IP Network
 🌱 Always learning, experimenting, and building solutions that matter.
 
 ## Most Used Languages
-Go, Ansible, Python.
+Golang, Ansible, Python and Robot.
 
 ## Statistics
 
