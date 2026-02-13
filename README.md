@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Periyamaruthu - (Peri M) !
+# 👋 Hi, I'm Periyamaruthu Mohanraj - (Peri M) !
 
 I'm a passionate **Developer and Solutions Engineer** with expertise in building, automating, and troubleshooting modern cloud infrastructure and solutions.
 
