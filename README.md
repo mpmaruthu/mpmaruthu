@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Periyamaruthu Mohanraj - (Peri M) !
 
-I'm a passionate **Developer and Solutions Engineer** with expertise in building, automating, and troubleshooting modern cloud infrastructure and solutions.
+I'm a passionate **Developer and Solutions Engineer** with expertise in building, automating, benchmarking and troubleshooting modern cloud infrastructure and solutions.
 
 ## 🚀 Top Skills & Technologies
 
@@ -31,7 +31,7 @@ I'm a passionate **Developer and Solutions Engineer** with expertise in building
 ## ⚡ Fun fact
 
 Professional Interests:
-Continuous Learning, IP and Packet Core Networking, Cloud Native Solutions, Generative AI, OpenShift, Virtualization. 
+Continuous Learning, IP and Packet Core Networking, Cloud Native Solutions - HW Performance Benchmarking, Generative AI, OpenShift, Virtualization. 
 
 ## 🌱 I’m currently learning
 
