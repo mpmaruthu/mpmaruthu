@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Periyamaruthu Mohanraj - (Peri M) !
 
-I'm a passionate **Developer and Solutions Engineer** with expertise in building, automating, benchmarking and troubleshooting modern cloud infrastructure and solutions.
+I'm a passionate **Telco Cloud Platform Solutions Engineer** with expertise in building, developing, automating, benchmarking and troubleshooting modern cloud infrastructure and solutions.
 
 ## 🚀 Top Skills & Technologies
 
